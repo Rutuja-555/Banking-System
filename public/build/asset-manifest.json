@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c6d35c2.css",
+    "main.js": "/static/js/main.05eef05e.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/customerimage.png": "/static/media/customerimage.8a943c7f9faf19a498c0.png",
+    "static/media/loader.gif": "/static/media/loader.40dacf5c997dd3a679d8.gif",
+    "static/media/bank.png": "/static/media/bank.8fe7b18c64614c7e7bc7.png",
+    "static/media/PageNotFound.png": "/static/media/PageNotFound.8ea29b79050e7de7d63c.png",
+    "static/media/bankerloginimage.jpg": "/static/media/bankerloginimage.8990e065c66888b552fc.jpg",
+    "static/media/bankerimage.webp": "/static/media/bankerimage.98015c4c96ad7cb8c4ee.webp",
+    "index.html": "/index.html",
+    "main.1c6d35c2.css.map": "/static/css/main.1c6d35c2.css.map",
+    "main.05eef05e.js.map": "/static/js/main.05eef05e.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6d35c2.css",
+    "static/js/main.05eef05e.js"
+  ]
+}
